@@ -28,11 +28,11 @@ st.markdown(f"""
 
 html, body, [class*="css"] {{
     font-family: 'Inter', sans-serif;
-    background-color: #172331;
-    color: #e0e8f0;
+    background-color: #0F192;
+    color: #E6EEF5;
 }}
 
-.stApp {{ background-color: #172331; }}
+.stApp {{ background-color:#0F192; }}
 
 /* Hide streamlit chrome */
 #MainMenu, footer, header {{ visibility: hidden; }}
